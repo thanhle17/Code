@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Thanh\Code\Solo\Solo\Solo\Source.cpp(80,14): warning C4129: 'F': unrecognized character escape sequence
+D:\Thanh\Code\Solo\Solo\Solo\Source.cpp(81,11): warning C4129: 'F': unrecognized character escape sequence
+  Solo.vcxproj -> D:\Thanh\Code\Solo\Solo\Debug\Solo.exe
